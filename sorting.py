@@ -1,0 +1,3 @@
+amogus = ['beg','work','invest','ping','shutdown','serverinfo','userinfo','meme','reddit','sweartoggle','rob','bannedwords','balance','shop','inventory','add','poll','buy','deposit','withdraw','rank','invite','say','ban','kick','8ball','trivia','nuke','invites','purge','kill','guess','isSus','lock','unlock','sum','subtract','multiply','divide','power','squareroot']
+amogus.sort()
+print('\n'.join(amogus))
