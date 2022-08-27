@@ -655,6 +655,6 @@
      ],
      "encode":[
 	"    @commands.command()\n",
-	"    async def encode(self, ctx, *, text): return await ctx.send(f\"`{archiescript.encode(text)}`\")\n\n"
+	"    async def encode(self, ctx, *, text): return await ctx.send(f'```{archiescript.encode(text)}```')\n\n"
      ]
 }
